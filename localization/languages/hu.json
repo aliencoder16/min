@@ -121,13 +121,13 @@
         "settingsSearchEngineHeading": "Kereső Motor",
         "settingsDefaultSearchEngine": "Válasza ki az Alap kereső Motorját:",
         "settingsDDGExplanation": "Állitsa be a DuckDuckGo kereső motort hogy lássa a válaszokat a kereső sorba.",
-        "customSearchEngineDescription": null, //missing translation
+        "customSearchEngineDescription": "Cusomizált Kereső leírás",
         "settingsKeyboardShortcutsHeading": "Billentjüzet kombinációk",
         "settingsKeyboardShortcutsHelp": "Használj , tobb kombináció megadásához.",
         /* app menu */
         "appMenuFile": "Fajl",
         "appMenuNewTab": "Új Fül",
-        "appMenuDuplicateTab": null, //missing translation
+        "appMenuDuplicateTab": "Fül Duplikálása", 
         "appMenuNewPrivateTab": "Új Privát Fül",
         "appMenuNewTask": "Új Feladat",
         "appMenuSavePageAs": "Oldal Mentése Másként",
